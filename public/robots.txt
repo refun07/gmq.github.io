@@ -1,0 +1,8 @@
+User-agent: *
+
+Allow: /
+Disallow: /terms-condition
+Disallow: /privacy-policy
+
+
+Sitemap: https://gmqglobal.com.au/sitemap.xml

@@ -124,7 +124,7 @@ function Blog() {
                 {blogData.map((item, id) => (
                     <div key={id} className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
                         <Image src={item.image} alt={item.title} width={300} height={300}className="object-cover w-full h-64" />
-                        <h1 className="text-3xl font-bold mb-2 mt-6">{item.title}</h1>
+                        <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">{item.title}</h1>
                         <div className="text-center mt-4">
                             <Link href={`/blogs/${id + 1}`}>
                                 <button className="bg-gray-500 hover:bg-blue-600 text-white font-bold py-4 px-4 rounded-lg transition transform hover:scale-105 mt-5">

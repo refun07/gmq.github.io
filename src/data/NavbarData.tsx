@@ -219,17 +219,12 @@ export const NavbarDummyData = {
       href: "/contact-us",
       submenu: false,
     },
+   
     {
-      id: "8",
-      text: "",
-      href: "/single-blog",
+      id: "7",
+      text: "blog",
+      href: "/blogs",
       submenu: false,
     },
-    // {
-    //   id: "7",
-    //   text: "blog",
-    //   href: "/blog",
-    //   submenu: false,
-    // },
   ],
 };

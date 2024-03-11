@@ -160,12 +160,62 @@ function SzhsinMenuDesktop() {
             class_name="p-2 px-4"
           />
         </div>
-         <div className="5">
+        <div className="5">
           <PageLink
             href="/blogs"
             text="Blogs"
             isIcon={false}
             class_name="p-2 px-4"
+          />
+        </div>
+        <div className="6">
+          <PageLink
+            href="/blogs/process-of-getting-pr"
+            isIcon={false}
+        
+          />
+        </div>
+        <div className="7">
+          <PageLink
+            href="/blogs/pr-pathway"
+            isIcon={false}
+          
+          />
+        </div>
+        <div className="8">
+          <PageLink
+            href="/blogs/permanent-residency"
+            text=""
+            isIcon={false}
+           
+          />
+        </div>
+        <div className="9">
+          <PageLink
+            href="/blogs/visa-options"
+            isIcon={false}
+          
+          />
+        </div>
+        <div className="10">
+          <PageLink
+            href="/blogs/independent-visa"
+            isIcon={false}
+            
+          />
+        </div>
+        <div className="11">
+          <PageLink
+            href="/blogs/option-if-you-dont-opt-independent-visa"
+            isIcon={false}
+            
+          />
+        </div>
+        <div className="12">
+          <PageLink
+            href="/blogs/frequency-asked-questions"
+            isIcon={false}
+            
           />
         </div>
       </div>

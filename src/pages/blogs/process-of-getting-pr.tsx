@@ -123,7 +123,7 @@ const BlogDetailsOne = () => {
                     </div>
                     <div className="flex items-center gap-3 text-gray-500">
                         <MdDateRange size={32} />
-                        <div className="font-bold text-lg">December 13, 23</div>
+                        <div className="font-bold text-lg">February 28, 2024</div>
                     </div>
                 </div>
             </div>
@@ -207,7 +207,7 @@ const BlogDetailsOne = () => {
                     <p className="text-gray-700 text-lg">{firstBlog?.about12?.description}</p>
                 </div>
                 <h1 className="text-4xl font-bold">{firstBlog?.title5}</h1>
-            
+
                 <div>
                     <h1 className="text-3xl font-bold mb-2">{firstBlog?.about13?.title}</h1>
                     <p className="text-gray-700 text-lg">{firstBlog?.about13.description}</p>
@@ -242,7 +242,7 @@ const BlogDetailsOne = () => {
                     <p className="text-gray-700 text-lg">{firstBlog?.about19?.description}</p>
                 </div>
                 <h1 className="text-4xl font-bold">{firstBlog?.title7}</h1>
-              
+
             </div>
 
 

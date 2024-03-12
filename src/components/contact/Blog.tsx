@@ -13,10 +13,10 @@ import image7 from "../../assets/blog/Transport.jpg";
 export const blogData = [
     {
         id: 1, title: "The Process of Getting PR in Australia through IT Courses", image: "/assets/blog/GetYourSkillsRecognized.png",
-        
+
     },
     {
-        id: 2, title: "PR Pathway IT Courses in Australia", image: '/assets/blog/testimonials.png',    
+        id: 2, title: "PR Pathway IT Courses in Australia", image: '/assets/blog/testimonials.png',
     },
     {
         id: 3, title: "How to Obtain Permanent Residency in Australia Through IT Courses?", image: '/assets/blog/diploma-of-salon-management-shb50216.jpg',
@@ -43,78 +43,79 @@ function Blog() {
         <div className="container mx-auto py-8">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-20 mb-8 mt-10">
                 <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
-                    <Image src={image1} alt="" width={300} height={300}className="object-cover w-full h-64" />
+                    <Image src={image1} alt="" width={300} height={300} className="object-cover w-full h-64" />
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">The Process of Getting PR in Australia through IT Courses</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/process-of-getting-pr`}>
-                            <button className="bg-gray-500 hover:bg-blue-600 text-white font-bold py-4 px-4 rounded-lg transition transform hover:scale-105 mt-10">
-                                    See More Details
+                            <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                                See More Details
                             </button>
                         </Link>
                     </div>
                 </div>
+
                 <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
-                    <Image src={image2} alt="" width={300} height={300}className="object-cover w-full h-64" />
+                    <Image src={image2} alt="" width={300} height={300} className="object-cover w-full h-64" />
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">PR Pathway IT Courses in Australia</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/pr-pathway`}>
-                            <button className="bg-gray-500 hover:bg-blue-600 text-white font-bold py-4 px-4 rounded-lg transition transform hover:scale-105 mt-10">
-                                    See More Details
+                            <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                                See More Details
                             </button>
                         </Link>
                     </div>
                 </div>
                 <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
-                    <Image src={image3} alt="" width={300} height={300}className="object-cover w-full h-64" />
+                    <Image src={image3} alt="" width={300} height={300} className="object-cover w-full h-64" />
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">How to Obtain Permanent Residency in Australia Through IT Courses?</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/permanent-residency`}>
-                            <button className="bg-gray-500 hover:bg-blue-600 text-white font-bold py-4 px-4 rounded-lg transition transform hover:scale-105 mt-3 mb-10">
-                                    See More Details
+                            <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                                See More Details
                             </button>
                         </Link>
                     </div>
                 </div>
                 <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
-                    <Image src={image4} alt="" width={300} height={300}className="object-cover w-full h-64" />
+                    <Image src={image4} alt="" width={300} height={300} className="object-cover w-full h-64" />
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">Visa Options.</h1>
                     <div className="text-center mt-50">
                         <Link href={`/blogs/visa-options`}>
-                            <button className="bg-gray-500 hover:bg-blue-600 text-white font-bold py-4 px-4 rounded-lg transition transform hover:scale-105 mt-20">
-                                    See More Details
+                            <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                                See More Details
                             </button>
                         </Link>
                     </div>
                 </div>
                 <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
-                    <Image src={image5} alt="" width={300} height={300}className="object-cover w-full h-64" />
+                    <Image src={image5} alt="" width={300} height={300} className="object-cover w-full h-64" />
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">Independent Visas</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/independent-visa`}>
-                            <button className="bg-gray-500 hover:bg-blue-600 text-white font-bold py-4 px-4 rounded-lg transition transform hover:scale-105 mt-20">
-                                    See More Details
+                            <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                                See More Details
                             </button>
                         </Link>
                     </div>
                 </div>
                 <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
-                    <Image src={image6} alt="" width={300} height={300}className="object-cover w-full h-64" />
+                    <Image src={image6} alt="" width={300} height={300} className="object-cover w-full h-64" />
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">What are your options if you don’t opt for Independent Visa options?</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/option-if-you-dont-opt-independent-visa`}>
-                            <button className="bg-gray-500 hover:bg-blue-600 text-white font-bold py-4 px-4 rounded-lg transition transform hover:scale-105 mt-3 mb-10">
-                                    See More Details
+                        <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                                See More Details
                             </button>
                         </Link>
                     </div>
                 </div>
                 <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
-                    <Image src={image7} alt="" width={300} height={300}className="object-cover w-full h-64" />
+                    <Image src={image7} alt="" width={300} height={300} className="object-cover w-full h-64" />
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">Frequently Asked Questions (FAQs)</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/frequency-asked-questions`}>
-                            <button className="bg-gray-500 hover:bg-blue-600 text-white font-bold py-4 px-4 rounded-lg transition transform hover:scale-105 mt-5 mb-10">
-                                    See More Details
+                        <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                                See More Details
                             </button>
                         </Link>
                     </div>

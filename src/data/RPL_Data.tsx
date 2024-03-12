@@ -316,7 +316,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "certificate ii in automotive servicing technology - AUR20520",
+            text: "certificate ii in automotive servicing technology",
             img: aur20520,
             description:
               "The Certificate II Automotive Servicing Technology reflects the knowledge of an individual working in the automotive service, repair and retail industry. The individual will be responsible for perform....",
@@ -324,7 +324,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 2,
-            text: "certificate iii in automotive electrical technology - AUR30320",
+            text: "certificate iii in automotive electrical technology",
             img: AUR30320,
             description:
               "Certificate III in Automotive Electrical Technology reflects the skills and experience of an individual working in the automotive electrical service and repair industry, servicing, diagnosing and repa...",
@@ -332,7 +332,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 3,
-            text: "certificate iii in light vehicle mechanical technology - AUR30620",
+            text: "certificate iii in light vehicle mechanical technology",
             img: AUR30620,
             description:
               "This qualification of a certificate iii in light vehicle mechanical technology provides the knowledge and skills required by an individual who wishes to work in the light vehicle automotive repair and....",
@@ -340,7 +340,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 5,
-            text: "Certificate II in Automotive Electrical Technology - AUR20420",
+            text: "Certificate II in Automotive Electrical Technology",
             img: AUR20420,
             description:
               "This qualification reflects the role of individuals who perform a range of tasks relating to installing, assembling and servicing electrical components and systems of motor vehicles in the automotive ....",
@@ -348,7 +348,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 6,
-            text: "Certificate II in Split Air-conditioning and Heat Pump Systems - UEE20120",
+            text: "Certificate II in Split Air-conditioning and Heat Pump Systems",
             img: UEE20120,
             description:
               "Air-conditioning and Heat Pump Systems equip graduates to perform installation, commissioning and de-comissioning of single head, split heat or air conditioning pump systems according to a prescribed ....",
@@ -356,7 +356,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 7,
-            text: "Certificate III in Automotive Body Repair Technology - AUR32120",
+            text: "Certificate III in Automotive Body Repair Technology",
             img: AUR32120,
             description:
               "Certificate III in Automotive Body Repair Technology reflects the skills and experience of an individual working in the automotive service, repair and retail industry, performing repairs and maintenan....",
@@ -364,7 +364,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 8,
-            text: "Certificate III in Automotive Diesel Engine Technology - AUR31520",
+            text: "Certificate III in Automotive Diesel Engine Technology",
             img: AUR31520,
             description:
               "Certificate III in Automotive Diesel Engine Technology reflects the skills and experience of an individual working in the automotive service, repair and retail industry, performing a range of tasks re....",
@@ -372,7 +372,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 10,
-            text: "Certificate III in Automotive Refinishing Technology - AUR32420",
+            text: "Certificate III in Automotive Refinishing Technology",
             img: AUR32420,
             description:
               "This qualification reflects the role of individuals who paint, refinish, repair and maintain painted surfaces on a range of automotive vehicles, recreational vehicles and other vehicles in the automot....",
@@ -380,7 +380,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 11,
-            text: "Certificate III in Heavy Commercial Vehicle Mechanical Technology - AUR31120",
+            text: "Certificate III in Heavy Commercial Vehicle Mechanical Technology",
             img: AUR31120,
             description:
               "Certificate III in Heavy Commercial Vehicle Mechanical Technology reflects the skills and experience of an individual working in the automotive service and repair sector, performing a variety of tasks....",
@@ -388,7 +388,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 13,
-            text: "Certificate III in Mobile Plant Technology - AUR31220",
+            text: "Certificate III in Mobile Plant Technology",
             img: AUR31220,
             description:
               "Certificate III in Mobile Plant Technology reflects the skills and experience of an individual working in the automotive service, repair, and retail industry, performing a range of tasks relating to m....",
@@ -396,7 +396,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 14,
-            text: "Certificate III in Motorcycle Mechanical Technology - AUR30820",
+            text: "Certificate III in Motorcycle Mechanical Technology",
             img: AUR30820,
             description:
               "This qualification reflects the role of individuals who perform a broad range of tasks on a variety of motorcycles in the automotive service and repair industry.....",
@@ -404,7 +404,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 15,
-            text: "Certificate IV in Automotive Body Repair Technology - AUR40720",
+            text: "Certificate IV in Automotive Body Repair Technology",
             img: AUR40720,
             description:
               "Certificate IV in Automotive Body Repair Technology reflects the skills and experience of an individual working in the automotive service, repair and retail industry as a workplace manager or team lea....",
@@ -412,7 +412,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 16,
-            text: "Certificate IV in Automotive Electrical Technology - AUR40620",
+            text: "Certificate IV in Automotive Electrical Technology",
             img: AUR40620,
             description:
               "You can be certified anywhere in Global with a nationally recognised qualification Have your  certification within four weeks of evidence being received Gain accreditation from a reputable Re....",
@@ -420,7 +420,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 17,
-            text: "Certificate IV in Automotive Mechanical Diagnosis - AUR40216",
+            text: "Certificate IV in Automotive Mechanical Diagnosis",
             img: AUR40216,
             description:
               "Certificate IV in Automotive Mechanical Diagnosis reflects the skills and experience of an individual working in the automotive service, repair and retail industry, performing advanced automotive diag....",
@@ -428,7 +428,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 18,
-            text: "Certificate IV in Automotive Mechanical Overhauling - AUR40820",
+            text: "Certificate IV in Automotive Mechanical Overhauling",
             img: AUR40820,
             description:
               "Certificate IV in Automotive Mechanical Overhauling reflects the skills and experience of an individual working in the automotive service, repair and retail industry, performing advanced troubleshooti....",
@@ -436,7 +436,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 19,
-            text: "Diploma of Automotive Management - AUR50116",
+            text: "Diploma of Automotive Management",
             img: AUR50116,
             description:
               " You can be certified anywhere in Global with a nationally recognised qualification Have your certification within four weeks of evidence being received Gain accreditation from a reputable Re....",
@@ -444,7 +444,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 20,
-            text: "Diploma of Automotive Technology - AUR50216",
+            text: "Diploma of Automotive Technology",
             img: AUR50216,
             description:
               "Diploma of Automotive Technology reflects the skills and experience of an individual working in the automotive service, repair and retail industry, performing vehicle diagnositics, analysis, evaluatio....",
@@ -468,7 +468,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "certificate iii in carpentry - CPC30220",
+            text: "certificate iii in carpentry",
             img: CPC30220,
             description:
               "The Certificate III in Carpentry Trade Skills recognition of prior learning (RPL) assessment program enables individuals with vast carpentry experience, but without formal qualifications, to attain th....",
@@ -476,7 +476,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 2,
-            text: "certificate iii in engineering - mechanical trade - MEM30219",
+            text: "certificate iii in engineering - mechanical trade",
             img: MEM30219,
             description:
               "Certificate III Engineering - Mechanical Trade covers the knowledge and skills required by an individual working as an engineering tradesperson within the metal, manufacturing, engineering, or assoc....",
@@ -484,7 +484,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 3,
-            text: "certificate iii in painting and decorating - CPC30620",
+            text: "certificate iii in painting and decorating",
             img: CPC30620,
             description:
               "The Certficate III in Painting and Decorating (CPC30620) qualification and trade skills recognition and prior learning program is available to local painters with extensive experience, or local studen....",
@@ -492,7 +492,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 5,
-            text: "Advanced Diploma of Building and Construction (Management) - CPC60220",
+            text: "Advanced Diploma of Building and Construction (Management)",
             img: CPC60220,
             description:
               "The Advanced Diploma of Building and Construction (Management) is suited to the career requirements of builders and modules cover everything from supervising to quality assurance, client liaision, and....",
@@ -500,7 +500,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 6,
-            text: "Certificate I in Construction - CPC10120",
+            text: "Certificate I in Construction",
             img: CPC10120,
             description:
               "This course provides a comprehensive introduction to the workplace expectations, the culture, occupations and job roles the construction industry. Modules within this course cover work health and safe....",
@@ -508,7 +508,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 7,
-            text: "Certificate III in Air-conditioning and Refrigeration - UEE32220",
+            text: "Certificate III in Air-conditioning and Refrigeration",
             img: UEE32220,
             description:
               " You can be certified anywhere in Global with a nationally recognised qualification Have your certification within four weeks of evidence being received Gain accreditation from a reputable Re....",
@@ -516,7 +516,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 8,
-            text: "Certificate III in Bricklaying and Blocklaying - CPC33020",
+            text: "Certificate III in Bricklaying and Blocklaying",
             img: CPC33020,
             description:
               "This certificate recognises prior learning and experience in the bricklaying field. The program is available to local students who have completed partial studies in Global and experienced bricklaye....",
@@ -524,7 +524,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 9,
-            text: "Certificate III in Cabinet Making - MSF31113",
+            text: "Certificate III in Cabinet Making",
             img: MSF31113,
             description:
               "The Certificate III in Cabinet Making prepares you for a career in manufacturing fitted and free-standing cabinets. The course will cover the known methods, procedures and routines involved in manufac....",
@@ -532,7 +532,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 10,
-            text: "Certificate III in Concreting - CPC30320",
+            text: "Certificate III in Concreting",
             img: CPC30320,
             description:
               "The Certificate III in Concreting program for the recognition of trade skills and prior learning recognises the experience of concreters who have yet to complete their qualifications. The program ensu....",
@@ -540,7 +540,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 12,
-            text: "Certificate III in Construction Waterproofing - CPC31420",
+            text: "Certificate III in Construction Waterproofing",
             img: CPC31420,
             description:
               "Certificate III in Construction Waterproofing offers a skills recognition program for waterproofers who want to convert their prior learning and experience in waterproofing into a professional qualifi....",
@@ -548,7 +548,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 13,
-            text: "Certificate III in Demolition - CPC30420",
+            text: "Certificate III in Demolition",
             img: CPC30420,
             description:
               "This qualification is designed to meet the needs of specialist demolition workers who dismantle and demolish public, residential, commercial and industrial buildings of all types, and process the resu....",
@@ -556,7 +556,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 14,
-            text: "Certificate III in Electrotechnology Electrician - UEE30820",
+            text: "Certificate III in Electrotechnology Electrician",
             img: UEE30820,
             description:
               " You can be certified anywhere in Global with a nationally recognised qualification Gain accreditation from a reputable Registered Training Organisation Customer Satisfaction Guarantee Get ....",
@@ -564,7 +564,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 15,
-            text: "Certificate III in Engineering - Fabrication Trade - MEM30319",
+            text: "Certificate III in Engineering - Fabrication Trade",
             img: MEM30319,
             description:
               "The Certificate III Engineering – Fabrication Trade qualification covers a range of skills required by anyone wishing to be employed as an engineering tradesperson in the industries of manufactu....",
@@ -572,7 +572,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 16,
-            text: "Certificate III in Glass and Glazing - MSF30422",
+            text: "Certificate III in Glass and Glazing",
             img: MSF30422,
             description:
               "This certification covers the theoretical knowledge and practical skills an individual requires to function in the role of glass and glazing, which includes the safe manufacturing and processing, movi....",
@@ -580,7 +580,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 17,
-            text: "Certificate III in Joinery - CPC31920",
+            text: "Certificate III in Joinery",
             img: CPC31920,
             description:
               "The Certificate III in Joinery recognises the skills, knowledge and experience within the joinery trade, covering both residential and commercial applications. The core unit of the qualification cover....",
@@ -588,7 +588,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 18,
-            text: "Certificate III in Landscape Construction - AHC30921",
+            text: "Certificate III in Landscape Construction",
             img: AHC30921,
             description:
               "This certificate acknowledges your skills and prior learning that enables you to perform a range of landscaping practices and techniques, including a broad knowledge of soils, plants, drainage and pro....",
@@ -597,7 +597,7 @@ export const RPL_QualificationData = {
 
           {
             id: 20,
-            text: "Certificate III in Plumbing - CPC32420",
+            text: "Certificate III in Plumbing",
             img: CPC32420,
             description:
               "Letter of Employment Any employment contracts you have currently ID Resume Payslips/work contract/ABN if self-employed Transcripts from past (relevant) qualifications Reference letters ....",
@@ -605,7 +605,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 21,
-            text: "Certificate III in Roof Plumbing - CPC32620",
+            text: "Certificate III in Roof Plumbing",
             img: CPC32620,
             description:
               "The Roof Plumbing certificate course offers both core and elective units that cover the basic competency requirements needed by the plumbing industry, as well as the units required to qualify as a roo....",
@@ -613,7 +613,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 22,
-            text: "Certificate III in Shopfitting - CPC30120",
+            text: "Certificate III in Shopfitting",
             img: CPC30120,
             description:
               "The Certificate III in Shopfitting was designed with shopfitters in mind. These individuals renovate or construct high quality retail environments by designing, installing and finishing internal ....",
@@ -621,7 +621,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 23,
-            text: "Certificate III in Solid Plastering - CPC31020",
+            text: "Certificate III in Solid Plastering",
             img: CPC31020,
             description:
               "Certificate III in Solid Plastering or Cement Rendering recognises a range of skills and experiences of people who have not completed their qualifications. By converting your hard work as a plasterer ....",
@@ -629,7 +629,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 24,
-            text: "Certificate III in Stonemasonry - CPC32320",
+            text: "Certificate III in Stonemasonry",
             img: CPC32320,
             description:
               "The Certificate III in Stonemasonry is aimed at meeting the needs of stonemasons who wish to work with a range of stone products, including marble, limestone and sandstone, in order to produce stone m....",
@@ -637,7 +637,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 25,
-            text: "Certificate III in Wall and Ceiling Lining - CPC31220",
+            text: "Certificate III in Wall and Ceiling Lining",
             img: CPC31220,
             description:
               "Certificate III Wall and Ceiling Lining recognises the skills and experience of carpenters who are yet to complete their qualifications. This program will ensure that your wall & ceiling lining skills....",
@@ -645,7 +645,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 26,
-            text: "Certificate III in Wall and Floor Tiling - CPC31320",
+            text: "Certificate III in Wall and Floor Tiling",
             img: CPC31320,
             description:
               "Certificate III in Wall and Floor Tiling recognises you for past learning and experience. It is available to individuals who have worked as tilers, but have not completed their formal qualifications. ....",
@@ -653,7 +653,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 27,
-            text: "Certificate III in Work Health and Safety - BSB30719",
+            text: "Certificate III in Work Health and Safety",
             img: BSB30719,
             description:
               "The Certificate III in Work Health and Safety is for ideal for skilled workers who, in addition to their main duties, carry Work Health and Safety (WHS) responsibilities. You may provide technical sup....",
@@ -661,7 +661,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 28,
-            text: "Certificate IV in Building and Construction - CPC40120",
+            text: "Certificate IV in Building and Construction",
             img: CPC40120,
             description:
               "The Certificate IV in Building & Construction recognises the skills and experience of experienced builders who have not yet completed their qualifications. We can help builders attain the subjects....",
@@ -669,7 +669,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 29,
-            text: "Certificate IV in Demolition - CPC41020",
+            text: "Certificate IV in Demolition",
             img: CPC41020,
             description:
               "The Certificate IV in Demolition is aimed at team leaders, demolition supervisors, project managers and project engineers who oversee teams of demolition workers in the undertaking of specialist demol....",
@@ -677,7 +677,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 30,
-            text: "Certificate IV in Plumbing and Services - CPC40920",
+            text: "Certificate IV in Plumbing and Services",
             img: CPC40920,
             description:
               "This certification reflects your knowledge and skills in the area of plumbing services and covers you should you wish to pursue the following outcomes: Fire services Stream, Mechanical Services & ....",
@@ -685,7 +685,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 31,
-            text: "Certificate IV in Work Health and Safety - BSB41419",
+            text: "Certificate IV in Work Health and Safety",
             img: BSB41419,
             description:
               "Certificate IV in Work Health and Safety is appropriate for individuals who work in the Work Health and Safety (WHS) role of their organisation. This individual will provide guidance and leadership to....",
@@ -693,7 +693,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 32,
-            text: "Diploma of Building and Construction (Building) - CPC50220",
+            text: "Diploma of Building and Construction (Building)",
             img: CPC50220,
             description:
               "The Diploma of Building and Construction combines theoretical and hands-on learning to give you technical knowledge and develop the skills needed to plan, coordinate and execute a building project. Th....",
@@ -701,7 +701,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 33,
-            text: "Diploma of Project Management - BSB50820",
+            text: "Diploma of Project Management",
             img: BSB50820,
             description:
               "A Diploma of Project Management reflects your strong theoretical knowledge base and specialised managerial and technical competencies that enable you to plan, execute and evaluate the performance of y....",
@@ -725,7 +725,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "Advanced Diploma of Business - BSB60120",
+            text: "Advanced Diploma of Business",
             img: BSB30115,
             description:
               "Advanced Diploma of Business from a Skills Certified RTO partner will combine all your training and experience into a nationally recognised qualification.",
@@ -733,7 +733,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 2,
-            text: "Advanced Diploma of Human Resource Management - BSB60320",
+            text: "Advanced Diploma of Human Resource Management",
             img: BSB60915,
             description:
               "Advanced Diploma of Human Resource Management from a registered training organisation. Let our Partner brief show you how RPL can benefit your career.",
@@ -741,7 +741,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 3,
-            text: "Advanced Diploma of Leadership and Management - BSB60420",
+            text: "Advanced Diploma of Leadership and Management",
             img: BSB60215,
             description:
               "Advanced Diploma of Leadership and Management RPL qualification, available via Skills Certified's RTO partners.",
@@ -749,7 +749,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 4,
-            text: "Advanced Diploma of Marketing and Communication - BSB60520",
+            text: "Advanced Diploma of Marketing and Communication",
             img: BSB60915,
             description:
               "Advanced Diploma of Marketing and Communication with Skills Certified's RTO partners.",
@@ -757,7 +757,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 5,
-            text: "Advanced Diploma of Program Management - BSB60720",
+            text: "Advanced Diploma of Program Management",
             img: BSB60720,
             description:
               "Advanced Diploma of Program Management through Skills Certified Global's RTO partners.",
@@ -765,7 +765,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 6,
-            text: "Advanced Diploma of Work Health and Safety - BSB60619",
+            text: "Advanced Diploma of Work Health and Safety",
             img: BSB30115,
             description:
               "The Advanced Diploma of Work Health and Safety is ideal for individuals in the\n Work Health and Safety (WHS) arena. You will apply advanced practical knowledge to the coordination",
@@ -773,14 +773,14 @@ export const RPL_QualificationData = {
           },
           {
             id: 7,
-            text: "Certificate III in Business - BSB30120",
+            text: "Certificate III in Business",
             img: BSB60720,
             description: "",
             href: "#",
           },
           {
             id: 8,
-            text: "Certificate III in Entrepreneurship and New Business - BSB30220",
+            text: "Certificate III in Entrepreneurship and New Business",
             img: BSB60215,
             description:
               "Advanced Diploma of Program Management through Skills Certified Global's RTO partners.",
@@ -788,7 +788,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 9,
-            text: "Certificate IV in Business - BSB40120",
+            text: "Certificate IV in Business",
             img: BSB60915,
             description:
               "Advanced Diploma of Program Management through Skills Certified Global's RTO partners.",
@@ -796,7 +796,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 10,
-            text: "Certificate IV in Entrepreneurship and New Business - BSB40320",
+            text: "Certificate IV in Entrepreneurship and New Business",
             img: BSB60520,
             description:
               "This qualification reflects the role of individuals establishing or operating a business providing self-employment, as well as those establishing a new venture as part of a larger organisation.",
@@ -804,7 +804,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 11,
-            text: "Diploma of Marketing and Communication - BSB50620",
+            text: "Diploma of Marketing and Communication",
             img: BSB50620,
             description:
               "The Diploma of Marketing and Communication qualification is aimed at individuals who possess sound theoretical communications and marketing knowledge",
@@ -812,7 +812,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 12,
-            text: "Diploma of Quality Auditing - BSB50920",
+            text: "Diploma of Quality Auditing",
             img: BSB60215,
             description:
               "The Diploma of Quality Auditing applies to the role of an individual who has a broad theoretical understanding as well as a specialised managerial or technical competencies that enables them to plan",
@@ -820,7 +820,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 13,
-            text: "Diploma of Work Health and Safety - BSB51319",
+            text: "Diploma of Work Health and Safety",
             img: BSB50620,
             description:
               "The Diploma of Work Health and Safety is recommended for individuals who coordinate and facilitate Work Health and Safety programs within their organisations.",
@@ -828,7 +828,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 14,
-            text: "Graduate Diploma of Portfolio Management - BSB80220",
+            text: "Graduate Diploma of Portfolio Management",
             img: BSB60915,
             description:
               "The Graduate Diploma of Portfolio Management provides the requirements of individuals who require advanced skills and knowledge in the arena of strategic portfolio management.",
@@ -836,7 +836,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 15,
-            text: "Graduate Diploma of Strategic Leadership - BSB80320",
+            text: "Graduate Diploma of Strategic Leadership",
             img: BSB40420,
             description:
               "The Graduate Diploma of Strategic Leadership qualification is aimed at individuals looking for career outcomes in management or strategic leadership roles.",
@@ -844,7 +844,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 16,
-            text: "Certificate IV in Finance and Mortgage Broking - FNS40820",
+            text: "Certificate IV in Finance and Mortgage Broking",
             img: BSB30115,
             description:
               "This qualification reflects the job roles of individuals working in finance broking (including mortgage broking).",
@@ -852,7 +852,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 17,
-            text: "Certificate IV in Financial Services - FNS41820",
+            text: "Certificate IV in Financial Services",
             img: BSB60215,
             description:
               "100 points of ID Resume Work references ABN/Business Registration/Work contract/Payslips Previous qualifications/transcripts WHS policy Samples of presentations you have created ",
@@ -860,7 +860,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 18,
-            text: "Certificate IV in Human Resource Management - BSB40420",
+            text: "Certificate IV in Human Resource Management",
             // img: BSB60520,
             img: bsb40420,
             description:
@@ -869,7 +869,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 19,
-            text: "Certificate IV in Leadership and Management - BSB40520",
+            text: "Certificate IV in Leadership and Management",
             // img: BSB40420,
             img: bsb40520,
             description:
@@ -878,7 +878,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 20,
-            text: "Certificate IV in Marketing and Communication - BSB40820",
+            text: "Certificate IV in Marketing and Communication",
             img: BSB40415,
             description:
               "The Certificate IV in Marketing and Communication qualification reflects your broad knowledge across an extensive range of marketing concepts.",
@@ -902,7 +902,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "certificate iii in civil construction (general) - rii30920",
+            text: "certificate iii in civil construction (general)",
             img: RII30913,
             description:
               "Certificate III in Civil Construction prepares you to work in industrial and commercial construction. Complete this qualification with Skills Certified.",
@@ -910,7 +910,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 2,
-            text: "certificate iii in civil construction plant operations - rii30820",
+            text: "certificate iii in civil construction plant operations",
             img: RII30820,
             description:
               "Build your future with a Certificate III in Civil Construction Plant Operations RII30820 via one of our registered training partners. A qualification builds on your past learning and current skills to save time.",
@@ -918,7 +918,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 3,
-            text: "certificate iv in civil construction - rii40720",
+            text: "certificate iv in civil construction",
             img: RII40720,
             description:
               "Certificate IV in Civil Construction from our RTO partner is the first step towards your future career. Let Skills Certified be your guide.",
@@ -942,7 +942,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "Advanced Diploma of Community Sector Management - CHC62015",
+            text: "Advanced Diploma of Community Sector Management",
             img: CHC62015,
             description:
               "The Advanced Diploma of Community Sector Management is aimed at middle managers in a variety of community sector organisations. Individuals at this level work independently.",
@@ -950,7 +950,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 2,
-            text: "Certificate III in Community Services - CHC32015",
+            text: "Certificate III in Community Services",
             img: CHC32015,
             description:
               "The Certificate III in Community Services provides the skills and knowledge required by entry-level community services workers who provide person-centred services.",
@@ -958,7 +958,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 3,
-            text: "Certificate III in Early Childhood Education and Care - CHC30121",
+            text: "Certificate III in Early Childhood Education and Care",
             img: CHC30121,
             description:
               "The Certificate III in Early Childhood Education and Care covers the requirements for working in the role of providing care in early childhood education settings, under supervision.",
@@ -966,7 +966,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 4,
-            text: "Certificate III in Individual Support - CHC33015",
+            text: "Certificate III in Individual Support",
             img: CHC33015,
             description:
               "Caring for the elderly can be a highly rewarding task and one your patients will really thank you for. ",
@@ -974,7 +974,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 5,
-            text: "Certificate IV in Ageing Support - CHC43015",
+            text: "Certificate IV in Ageing Support",
             img: CHC43015,
             description:
               "Certificate IV in Ageing Support reflects the role of an individual who serves the aged in home, community or residential environments",
@@ -998,7 +998,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "Certificate III in Patisserie - SIT31016",
+            text: "Certificate III in Patisserie",
             img: certificate_iii_in_patisserie_sit31016,
             description:
               "The Certificate III in Patisserie covers the role of pastry chefs who use discretion, judgment and patisserie skills.",
@@ -1006,7 +1006,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 2,
-            text: "Certificate IV in Commercial Cookery - SIT40516",
+            text: "Certificate IV in Commercial Cookery",
             img: certificate_iv_in_commercial_cookery_sit40516,
             description:
               "he Certificate IV in Commercial Cookery reflects the skills and knowledge of an individual working as a commercial cook, and provides supervision and team leading and guidance in the kitchen",
@@ -1014,7 +1014,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 3,
-            text: "Certificate IV in Hospitality - SIT40416",
+            text: "Certificate IV in Hospitality",
             img: certificate_iv_in_hospitality_sit40416,
             description:
               "The Certificate IV in Hospitality qualification is applicable to skilled operators who apply a broad range fo operational skills in the hospitality service and sales.",
@@ -1022,7 +1022,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 4,
-            text: "Certificate IV in Kitchen Management - SIT40521",
+            text: "Certificate IV in Kitchen Management",
             img: certificate_iv_in_kitchen_management_sit40521,
             description:
               "The Certificate IV in Kitchen Management (SIT40521) covers a variety of units of competency that are relevant to the food industry, including managing finances, leading teams, and implementing food",
@@ -1030,7 +1030,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 5,
-            text: "Certificate IV in Patisserie - SIT40716",
+            text: "Certificate IV in Patisserie",
             img: certificate_iv_in_patisserie_sit40716,
             description:
               "The Certificate IV in Patisserie qualification covers the role and responsibilities of pastry chefs with a team leading or supervisory role in the kitchen.",
@@ -1038,7 +1038,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 6,
-            text: "Certificate III in Patisserie - SIT31016",
+            text: "Certificate III in Patisserie",
             img: certificate_iii_in_patisserie_sit31016,
             description:
               "The Certificate III in Patisserie covers the role of pastry chefs who use discretion, judgment and patisserie skills.",
@@ -1046,7 +1046,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 7,
-            text: "Certificate IV in Commercial Cookery - SIT40516",
+            text: "Certificate IV in Commercial Cookery",
             img: certificate_iv_in_commercial_cookery_sit40516,
             description:
               "The Certificate IV in Commercial Cookery reflects the skills and knowledge of an individual working as a commercial cook, and provides supervision and team leading and guidance in the kitchen",
@@ -1054,7 +1054,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 8,
-            text: "Certificate IV in Hospitality - SIT40416",
+            text: "Certificate IV in Hospitality",
             img: certificate_iii_in_patisserie_sit31016,
             description:
               "The Certificate IV in Hospitality qualification is applicable to skilled operators who apply a broad range fo operational skills in the hospitality service and sales.",
@@ -1095,7 +1095,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "Certificate II in Salon Assistant - SHB20216",
+            text: "Certificate II in Salon Assistant",
             img: SHB20216,
             description:
               "The Certificate II in Salon Assistant is a preparatory qualification which equips the individual with a defined, limited range of basic knowledge and skills required in a client services role in haird....",
@@ -1103,7 +1103,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 2,
-            text: "Certificate III in Barbering - SHB30516",
+            text: "Certificate III in Barbering",
             img: SHB30516,
             description:
               "This Certificate III in Barbering reflects the role of barbers who use a range of well-developed sales, consultation and technical skills and knowledge to provide a broad range of barbering services t....",
@@ -1111,7 +1111,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 3,
-            text: "Certificate III in Beauty Services - SHB30121",
+            text: "Certificate III in Beauty Services",
             img: SHB30121,
             description:
               "A Certificate III in Beauty Services reflects your skills in a variety of beauty-related services, including basic make-up services, lash and brow design, waxing and nail care. Individuals who pursue ....",
@@ -1119,7 +1119,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 4,
-            text: "Certificate III in Hairdressing - SHB30416",
+            text: "Certificate III in Hairdressing",
             img: SHB30416,
             description:
               "A Certificate III in Hairdressing provides the knowledge and skills required for you to pursue a hairdressing career and work as part of a team. The course will provide you with the competence to comm....",
@@ -1127,7 +1127,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 5,
-            text: "Certificate III in Make-Up - SHB30221",
+            text: "Certificate III in Make-Up",
             img: SHB30221,
             description:
               "The Certificate III in Make-Up qualification is aimed at individuals who work as makeup artists and are responsible for designing and applying make-up for a range of purposes and occasions in the ente....",
@@ -1135,7 +1135,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 6,
-            text: "Certificate III in Nail Technology - SHB30321",
+            text: "Certificate III in Nail Technology",
             img: SHB30321,
             description:
               "The Certificate III in Nail Technology is required by individuals working as nail technicians who provide pedicure and manicure services. A nail technician must possess a well-developed range of skill....",
@@ -1143,7 +1143,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 7,
-            text: "Certificate IV in Beauty Therapy - SHB40121",
+            text: "Certificate IV in Beauty Therapy",
             img: SHB40121,
             description:
               "This Certificate IV in Beauty Therapy certification reflects the role of an individual working as a beauty therapist, providing a range of beauty services and treatments, including make-up, nails, wax....",
@@ -1151,7 +1151,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 8,
-            text: "Certificate IV in Hairdressing - SHB40216",
+            text: "Certificate IV in Hairdressing",
             img: SHB40216,
             description:
               "This certificate course acknowledges the knowledge and technical skills of a senior hairdresser who works as part of a team in a coordinating role. You work as a technical adviser in a hairdressing ....",
@@ -1159,7 +1159,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 9,
-            text: "Diploma of Beauty Therapy - SHB50121",
+            text: "Diploma of Beauty Therapy",
             img: SHB50121,
             description:
               "This diploma reflects the skills and experience of an individual working as a beauty therapist, providing a variety of beauty services and therapies, including but not limited to facials, hair removal....",
@@ -1167,7 +1167,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 9,
-            text: "Diploma of Salon Management - SHB50216",
+            text: "Diploma of Salon Management",
             img: SHB50216,
             description:
               "The Diploma of Salon Management reflects the skills and knowledge of an individual who is qualified to manage the business operations, including service delivery within a personal services environment....",
@@ -1175,7 +1175,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 10,
-            text: "Graduate Certificate in Hairdressing Creative Leadership - SHB80116",
+            text: "Graduate Certificate in Hairdressing Creative Leadership",
             img: SHB80116,
             description:
               "The Graduate Certificate in Hairdressing Creative Leadership is aimed at senior hairdressing professionals who pave the way for the future of hair design within this challenging industry. These indivi....",
@@ -1200,7 +1200,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "Certificate III in Horticulture - AHC30716",
+            text: "Certificate III in Horticulture",
             img: AHC30716,
             description:
               "This qualification provides a general vocational outcome in amenity horticulture.....",
@@ -1224,7 +1224,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "Advanced Diploma of Engineering - MEM60112",
+            text: "Advanced Diploma of Engineering",
             img: MEM60112,
             description:
               "You can be certified anywhere in Global with a nationally recognised qualification Have your certification within four weeks of evidence being received Gain accreditation from a reputable Re....",
@@ -1232,7 +1232,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 2,
-            text: "Certificate III in Engineering - Fabrication Trade - MEM30319",
+            text: "Certificate III in Engineering - Fabrication Trade",
             img: MEM30319,
             description:
               "The Certificate III in Engineering – Fabrication Trade qualification covers a range of skills required by anyone wishing to be employed as an engineering tradesperson in the industries of manufa....",
@@ -1240,7 +1240,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 3,
-            text: "Certificate III in Engineering - Mechanical Trade - MEM30219",
+            text: "Certificate III in Engineering - Mechanical Trade",
             img: MEM30219,
             description:
               "Certificate III in Engineering - Mechanical Trade covers the knowledge and skills required by an individual working as an engineering tradesperson within the metal, manufacturing, engineering, or asso....",
@@ -1248,7 +1248,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 4,
-            text: "Certificate IV in Engineering - MEM40119",
+            text: "Certificate IV in Engineering",
             img: MEM40119,
             description:
               "The Certificate IV in Engineering (MEM40105 cert 4 engineering fabrication) provides the knowledge and skills required for an individual to be employed as a Special Class Engineering Tradesperson (Mec....",
@@ -1256,7 +1256,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 5,
-            text: "Diploma of Engineering - Advanced Trade - MEM50119",
+            text: "Diploma of Engineering - Advanced Trade",
             img: MEM50119,
             description:
               "The Diploma of Engineering - Advanced Trade provides the knowledge and skills required for a career outcome as an Advanced Engineering Tradesperson - Level II within the metal manufacturing, engineeri....",
@@ -1264,7 +1264,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 6,
-            text: "Diploma of Engineering - Technical - MEM50212",
+            text: "Diploma of Engineering - Technical",
             img: MEM50212,
             description:
               "You can be certified anywhere in Global with a nationally recognised qualification Have your certification within four weeks of evidence being received Gain accreditation from a reputable Re....",
@@ -1289,7 +1289,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "Advanced Diploma of Information Technology - ICT60220",
+            text: "Advanced Diploma of Information Technology",
             img: ICT60220,
             description:
               "Global Institute of Business and Technology ....",
@@ -1297,7 +1297,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 2,
-            text: "Diploma of Information Technology - ICT50220",
+            text: "Diploma of Information Technology",
             img: ICT50220,
             description:
               "The Diploma in Information Technology covers the knowledge and skills an individual needs to manage and administer information and communications technology (ICT) support for small-to-medium enterpris....",
@@ -1322,7 +1322,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "Certificate III in Surface Extraction Operations - RII30120",
+            text: "Certificate III in Surface Extraction Operations",
             img: RII30120,
             description:
               "The Certificate III in Surface Extraction Operations covers the roles of employees, which could include production operators working in quarries or open cut mines, performing a variety of tasks involv....",
@@ -1347,7 +1347,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "Certificate III in Plumbing - CPC32420",
+            text: "Certificate III in Plumbing",
             img: CPC32420,
             description:
               "This particular course of a certificate iii in plumbing is open to plumbers who have at least 5 years related local experience, as well as local students who have completed part of their studies in Au....",
@@ -1363,7 +1363,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 3,
-            text: "Certificate IV in Plumbing and Services - CPC40920",
+            text: "Certificate IV in Plumbing and Services",
             img: CPC40920,
             description:
               "This certification reflects your knowledge and skills in the area of plumbing services and covers you should you wish to pursue the following outcomes: Fire services Stream, Mechanical Services & ....",
@@ -1388,7 +1388,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "Certificate IV in Security Management - CPP40719",
+            text: "Certificate IV in Security Management",
             img: CPP40719,
             description:
               "The Certificate IV in Security Management focuses on developing and monitoring Security Risk Assessments (SRAs). It covers the areas of risk, threat and asset assessments on behalf of an entity, gover....",
@@ -1396,7 +1396,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 2,
-            text: "Certificate IV in Security Risk Analysis - CPP41519",
+            text: "Certificate IV in Security Risk Analysis",
             img: CPP41519,
             description:
               "This qualification is for security risk analysts who apply technical security and operations expertise in a risk management environment. Security risk analysts understand the current threat environmen....",
@@ -1404,7 +1404,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 4,
-            text: "Diploma of Security and Risk Management - CPP50619",
+            text: "Diploma of Security and Risk Management",
             img: CPP41519,
             description:
               "The Diploma of Security and Risk Management provides the skills required for Security Risk Assessment consultation, monitoring and implementation according to the Global Security Risk Management S....",
@@ -1429,7 +1429,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "Diploma of Logistics - TLI50221",
+            text: "Diploma of Logistics",
             img: TLI50221,
             description:
               "You can be certified anywhere in Global with a nationally recognised qualification Have your certification within four weeks of evidence being received Gain accreditation from a reputable Re....",
@@ -1454,7 +1454,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "Graduate Diploma of Management (Learning) - BSB80120",
+            text: "Graduate Diploma of Management (Learning)",
             img: BSB80120,
             description:
               "The Graduate Diploma of Management (Learning) applies to individuals who possess a highly specialised skillset in capability development and organisational learning. You are responsible for generating....",
@@ -1479,7 +1479,7 @@ export const RPL_QualificationData = {
         link: [
           {
             id: 1,
-            text: "Certificate II in Retail Cosmetics - SHB20116",
+            text: "Certificate II in Retail Cosmetics",
             img: SHB20116,
             description:
               "The Certificate II in Retail Cosmetics equips individuals with the skill to demonstrate and sell cosmetic products as a retail sales consultant in a variety of businesses, ranging from department stor....",
@@ -1487,7 +1487,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 2,
-            text: "Certificate III in Retail - SIR30216",
+            text: "Certificate III in Retail",
             img: RetailServices,
             description:
               "This certification is aimed at individuals who want to advance their knowledge and skills in retail operations. You would typically work in a retail setting, such as a supermarket, retail fast food ....",
@@ -1495,7 +1495,7 @@ export const RPL_QualificationData = {
           },
           {
             id: 3,
-            text: "Diploma of Retail Leadership - SIR50116",
+            text: "Diploma of Retail Leadership",
             img: SIR50116,
             description: "",
             href: "#",
@@ -1541,90 +1541,90 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Certificate II in Automotive Servicing Technology - AUR20520",
+            text: "Certificate II in Automotive Servicing Technology",
             value:
-              "Certificate II in Automotive Servicing Technology - AUR20520",
+              "Certificate II in Automotive Servicing Technology",
           },
           {
             id: 4,
             text: "Certificate II in Split Air-conditioning and Heat Pump Systems - UEE20120",
             value:
-              "Certificate II in Split Air-conditioning and Heat Pump Systems - UEE20120",
+              "Certificate II in Split Air-conditioning and Heat Pump Systems",
           },
           {
             id: 5,
-            text: "Certificate III in Automotive Body Repair Technology - AUR32120",
+            text: "Certificate III in Automotive Body Repair Technology",
             value:
-              "Certificate III in Automotive Body Repair Technology - AUR32120",
+              "Certificate III in Automotive Body Repair Technology",
           },
           {
             id: 6,
-            text: "Certificate III in Automotive Diesel Engine Technology - AUR31520",
+            text: "Certificate III in Automotive Diesel Engine Technology",
             value:
-              "Certificate III in Automotive Diesel Engine Technology - AUR31520",
+              "Certificate III in Automotive Diesel Engine Technology",
           },
           {
             id: 7,
-            text: "Certificate III in Automotive Electrical Technology - AUR30320",
+            text: "Certificate III in Automotive Electrical Technology",
             value:
-              "Certificate III in Automotive Electrical Technology - AUR30320",
+              "Certificate III in Automotive Electrical Technology",
           },
           {
             id: 8,
-            text: "Certificate III in Automotive Refinishing Technology - AUR32420",
+            text: "Certificate III in Automotive Refinishing Technology",
             value:
-              "Certificate III in Automotive Refinishing Technology - AUR32420",
+              "Certificate III in Automotive Refinishing Technology",
           },
           {
             id: 9,
-            text: "Certificate III in Heavy Commercial Vehicle Mechanical Technology - AUR31120",
+            text: "Certificate III in Heavy Commercial Vehicle Mechanical Technology ",
             value:
-              "Certificate III in Heavy Commercial Vehicle Mechanical Technology - AUR31120",
+              "Certificate III in Heavy Commercial Vehicle Mechanical Technology",
           },
           {
             id: 10,
-            text: "Certificate III in Light Vehicle Mechanical Technology - AUR30620",
+            text: "Certificate III in Light Vehicle Mechanical Technology",
             value:
-              "Certificate III in Light Vehicle Mechanical Technology - AUR30620",
+              "Certificate III in Light Vehicle Mechanical Technology",
           },
           {
             id: 11,
-            text: "Certificate III in Mobile Plant Technology - AUR31220",
-            value: "Certificate III in Mobile Plant Technology - AUR31220",
+            text: "Certificate III in Mobile Plant Technology",
+            value: "Certificate III in Mobile Plant Technology",
           },
           {
             id: 12,
-            text: "Certificate IV in Automotive Body Repair Technology - AUR40720",
+            text: "Certificate IV in Automotive Body Repair Technology",
             value:
-              "Certificate IV in Automotive Body Repair Technology - AUR40720",
+              "Certificate IV in Automotive Body Repair Technology",
           },
           {
             id: 13,
-            text: "Certificate IV in Automotive Electrical Technology - AUR40620",
+            text: "Certificate IV in Automotive Electrical Technology",
             value:
-              "Certificate IV in Automotive Electrical Technology - AUR40620",
+              "Certificate IV in Automotive Electrical Technology",
           },
           {
             id: 14,
-            text: "Certificate IV in Automotive Mechanical Diagnosis - AUR40216",
+            text: "Certificate IV in Automotive Mechanical Diagnosis",
             value:
-              "Certificate IV in Automotive Mechanical Diagnosis - AUR40216",
+              "Certificate IV in Automotive Mechanical Diagnosis",
           },
           {
             id: 15,
-            text: "Certificate IV in Automotive Mechanical Overhauling - AUR40820",
+            text: "Certificate IV in Automotive Mechanical Overhauling",
             value:
-              "Certificate IV in Automotive Mechanical Overhauling - AUR40820",
+              "Certificate IV in Automotive Mechanical Overhauling",
           },
           {
             id: 16,
-            text: "Diploma of Automotive Management - AUR50116",
-            value: "Diploma of Automotive Management - AUR50116",
+            text: "Diploma of Automotive Management",
+            value: "Diploma of Automotive Management",
           },
           {
             id: 17,
-            text: "Diploma of Automotive Technology - AUR50216",
-            value: "Diploma of Automotive Technology - AUR50216",
+            text: "Diploma of Automotive Technology",
+            value: "Diploma of Automotive Technology",
           },
         ],
       },
@@ -1645,148 +1645,148 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Advanced Diploma of Building and Construction (Management) - CPC60220",
+            text: "Advanced Diploma of Building and Construction (Management)",
             value:
-              "Advanced Diploma of Building and Construction (Management) - CPC60220",
+              "Advanced Diploma of Building and Construction (Management)",
           },
           {
             id: 4,
-            text: "Certificate I in Construction - CPC10120",
-            value: "Certificate I in Construction - CPC10120",
+            text: "Certificate I in Construction",
+            value: "Certificate I in Construction",
           },
           {
             id: 5,
-            text: "Certificate III in Air-conditioning and Refrigeration - UEE32220",
+            text: "Certificate III in Air-conditioning and Refrigeration",
             value:
-              "Certificate III in Air-conditioning and Refrigeration - UEE32220",
+              "Certificate III in Air-conditioning and Refrigeration",
           },
           {
             id: 6,
-            text: "Certificate III in Bricklaying and Blocklaying - CPC33020",
-            value: "Certificate III in Bricklaying and Blocklaying - CPC33020",
+            text: "Certificate III in Bricklaying and Blocklaying",
+            value: "Certificate III in Bricklaying and Blocklaying",
           },
           {
             id: 7,
-            text: "Certificate III in Cabinet Making - MSF31113",
-            value: "Certificate III in Cabinet Making - MSF31113",
+            text: "Certificate III in Cabinet Making",
+            value: "Certificate III in Cabinet Making",
           },
           {
             id: 8,
-            text: "Certificate III in Carpentry - CPC30220",
-            value: "Certificate III in Carpentry - CPC30220",
+            text: "Certificate III in Carpentry",
+            value: "Certificate III in Carpentry",
           },
           {
             id: 9,
-            text: "Certificate III in Concreting - CPC30320",
-            value: "Certificate III in Concreting - CPC30320",
+            text: "Certificate III in Concreting",
+            value: "Certificate III in Concreting",
           },
           {
             id: 10,
-            text: "Certificate III in Construction Waterproofing - CPC31420",
-            value: "Certificate III in Construction Waterproofing - CPC31420",
+            text: "Certificate III in Construction Waterproofing",
+            value: "Certificate III in Construction Waterproofing",
           },
           {
             id: 11,
-            text: "Certificate III in Electrotechnology Electrician - UEE30820",
+            text: "Certificate III in Electrotechnology Electrician",
             value:
-              "Certificate III in Electrotechnology Electrician - UEE30820",
+              "Certificate III in Electrotechnology Electrician",
           },
           {
             id: 12,
-            text: "Certificate III in Engineering - Fabrication Trade - MEM30319.",
+            text: "Certificate III in Engineering - Fabrication Trade.",
             value:
-              "Certificate III in Engineering - Fabrication Trade - MEM30319.",
+              "Certificate III in Engineering - Fabrication Trade.",
           },
           {
             id: 13,
-            text: "Certificate III in Engineering - Mechanical Trade - MEM30219",
+            text: "Certificate III in Engineering - Mechanical Trade",
             value:
-              "Certificate III in Engineering - Mechanical Trade - MEM30219",
+              "Certificate III in Engineering - Mechanical Trade",
           },
           {
             id: 14,
-            text: "Certificate III in Glass and Glazing - MSF30422",
-            value: "Certificate III in Glass and Glazing - MSF30422",
+            text: "Certificate III in Glass and Glazing",
+            value: "Certificate III in Glass and Glazing ",
           },
           {
             id: 15,
-            text: "Certificate III in Joinery - CPC31920",
-            value: "Certificate III in Joinery - CPC31920",
+            text: "Certificate III in Joinery",
+            value: "Certificate III in Joinery",
           },
           {
             id: 16,
-            text: "Certificate III in Landscape Construction - AHC30921",
-            value: "Certificate III in Landscape Construction - AHC30921",
+            text: "Certificate III in Landscape Construction",
+            value: "Certificate III in Landscape Construction",
           },
           {
             id: 17,
-            text: "Certificate III in Painting and Decorating - CPC30620",
-            value: "Certificate III in Painting and Decorating - CPC30620",
+            text: "Certificate III in Painting and Decorating",
+            value: "Certificate III in Painting and Decorating",
           },
           {
             id: 18,
-            text: "Certificate III in Plumbing - CPC32420",
-            value: "Certificate III in Plumbing - CPC32420",
+            text: "Certificate III in Plumbing",
+            value: "Certificate III in Plumbing",
           },
           {
             id: 19,
-            text: "Certificate III in Roof Plumbing - CPC32620.",
-            value: "Certificate III in Roof Plumbing - CPC32620.",
+            text: "Certificate III in Roof Plumbing.",
+            value: "Certificate III in Roof Plumbing.",
           },
           {
             id: 20,
-            text: "Certificate III in Shopfitting - CPC30120",
-            value: "Certificate III in Shopfitting - CPC30120",
+            text: "Certificate III in Shopfitting",
+            value: "Certificate III in Shopfitting",
           },
           {
             id: 21,
-            text: "Certificate III in Solid Plastering - CPC31020",
-            value: "Certificate III in Solid Plastering - CPC31020",
+            text: "Certificate III in Solid Plastering",
+            value: "Certificate III in Solid Plastering",
           },
           {
             id: 22,
-            text: "Certificate III in Stonemasonry - CPC32320",
-            value: "Certificate III in Stonemasonry - CPC32320",
+            text: "Certificate III in Stonemasonry",
+            value: "Certificate III in Stonemasonry",
           },
           {
             id: 23,
-            text: "Certificate III in Wall and Ceiling Lining - CPC31220",
-            value: "Certificate III in Wall and Ceiling Lining - CPC31220",
+            text: "Certificate III in Wall and Ceiling Lining",
+            value: "Certificate III in Wall and Ceiling Lining",
           },
           {
             id: 24,
-            text: "Certificate III in Wall and Floor Tiling - CPC31320",
-            value: "Certificate III in Wall and Floor Tiling - CPC31320",
+            text: "Certificate III in Wall and Floor Tiling ",
+            value: "Certificate III in Wall and Floor Tiling",
           },
           {
             id: 25,
-            text: "Certificate III in Work Health and Safety - BSB30719",
-            value: "Certificate III in Work Health and Safety - BSB30719",
+            text: "Certificate III in Work Health and Safety",
+            value: "Certificate III in Work Health and Safety",
           },
           {
             id: 26,
-            text: "Certificate IV in Building and Construction - CPC40120",
-            value: "Certificate IV in Building and Construction - CPC40120",
+            text: "Certificate IV in Building and Construction",
+            value: "Certificate IV in Building and Construction",
           },
           {
             id: 27,
-            text: "Certificate IV in Plumbing and Services - CPC40920.",
-            value: "Certificate IV in Plumbing and Services - CPC40920.",
+            text: "Certificate IV in Plumbing and Services.",
+            value: "Certificate IV in Plumbing and Services.",
           },
           {
             id: 28,
-            text: "Certificate IV in Work Health and Safety - BSB41419",
-            value: "Certificate IV in Work Health and Safety - BSB41419",
+            text: "Certificate IV in Work Health and Safety",
+            value: "Certificate IV in Work Health and Safety",
           },
           {
             id: 29,
-            text: "Diploma of Building and Construction (Building) - CPC50220",
-            value: "Diploma of Building and Construction (Building) - CPC50220",
+            text: "Diploma of Building and Construction (Building",
+            value: "Diploma of Building and Construction (Building)",
           },
           {
             id: 30,
-            text: "Diploma of Project Management - BSB50820",
-            value: "Diploma of Project Management - BSB50820",
+            text: "Diploma of Project Management",
+            value: "Diploma of Project Management",
           },
         ],
       },
@@ -1807,119 +1807,119 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Advanced Diploma of Business - BSB60120",
-            value: "Advanced Diploma of Business - BSB60120",
+            text: "Advanced Diploma of Business",
+            value: "Advanced Diploma of Business",
           },
           {
             id: 4,
-            text: "Advanced Diploma of Human Resource Management - BSB60320",
-            value: "Advanced Diploma of Human Resource Management - BSB60320",
+            text: "Advanced Diploma of Human Resource Management",
+            value: "Advanced Diploma of Human Resource Management",
           },
           {
             id: 5,
-            text: "Advanced Diploma of Leadership and Management - BSB60420",
-            value: "Advanced Diploma of Leadership and Management - BSB60420",
+            text: "Advanced Diploma of Leadership and Management",
+            value: "Advanced Diploma of Leadership and Management",
           },
           {
             id: 6,
-            text: "Advanced Diploma of Marketing and Communication - BSB60520",
-            value: "Advanced Diploma of Marketing and Communication - BSB60520",
+            text: "Advanced Diploma of Marketing and Communication",
+            value: "Advanced Diploma of Marketing and Communication",
           },
           {
             id: 7,
-            text: "Advanced Diploma of Program Management - BSB60720",
-            value: "Advanced Diploma of Program Management - BSB60720",
+            text: "Advanced Diploma of Program Management",
+            value: "Advanced Diploma of Program Management",
           },
           {
             id: 8,
-            text: "Advanced Diploma of Work Health and Safety - BSB60619",
-            value: "Advanced Diploma of Work Health and Safety - BSB60619",
+            text: "Advanced Diploma of Work Health and Safety",
+            value: "Advanced Diploma of Work Health and Safety",
           },
           {
             id: 9,
-            text: "Certificate III in Business - BSB30120",
-            value: "Certificate III in Business - BSB30120",
+            text: "Certificate III in Business",
+            value: "Certificate III in Business",
           },
           {
             id: 10,
-            text: "Certificate III in Entrepreneurship and New Business - BSB30220",
+            text: "Certificate III in Entrepreneurship and New Business",
             value:
-              "Certificate III in Entrepreneurship and New Business - BSB30220",
+              "Certificate III in Entrepreneurship and New Business",
           },
           {
             id: 11,
-            text: "Certificate IV in Business - BSB40120",
-            value: "Certificate IV in Business - BSB40120",
+            text: "Certificate IV in Business",
+            value: "Certificate IV in Business",
           },
           {
             id: 12,
-            text: "Certificate IV in Finance and Mortgage Broking - FNS40820",
-            value: "Certificate IV in Finance and Mortgage Broking - FNS40820",
+            text: "Certificate IV in Finance and Mortgage Broking",
+            value: "Certificate IV in Finance and Mortgage Broking",
           },
           {
             id: 13,
-            text: "Certificate IV in Financial Services - FNS41820",
-            value: "Certificate IV in Financial Services - FNS41820",
+            text: "Certificate IV in Financial Services",
+            value: "Certificate IV in Financial Services",
           },
           {
             id: 14,
-            text: "Certificate IV in Human Resource Management - BSB40420",
-            value: "Certificate IV in Human Resource Management - BSB40420",
+            text: "Certificate IV in Human Resource Management",
+            value: "Certificate IV in Human Resource Management",
           },
           {
             id: 15,
-            text: "Certificate IV in Leadership and Management - BSB40520",
-            value: "Certificate IV in Leadership and Management - BSB40520",
+            text: "Certificate IV in Leadership and Management ",
+            value: "Certificate IV in Leadership and Management ",
           },
           {
             id: 16,
-            text: "Certificate IV in Marketing and Communication - BSB40820",
-            value: "Certificate IV in Marketing and Communication - BSB40820",
+            text: "Certificate IV in Marketing and Communication ",
+            value: "Certificate IV in Marketing and Communication",
           },
           {
             id: 17,
-            text: "Certificate IV in Project Management Practice - BSB40920",
-            value: "Certificate IV in Project Management Practice - BSB40920",
+            text: "Certificate IV in Project Management Practice ",
+            value: "Certificate IV in Project Management Practice",
           },
           {
             id: 18,
-            text: "Diploma of Business - BSB50120",
-            value: "Diploma of Business - BSB50120",
+            text: "Diploma of Business",
+            value: "Diploma of Business",
           },
           {
             id: 19,
-            text: "Diploma of Human Resources Management - BSB50320",
-            value: "Diploma of Human Resources Management - BSB50320",
+            text: "Diploma of Human Resources Management ",
+            value: "Diploma of Human Resources Management ",
           },
           {
             id: 20,
-            text: "Diploma of Leadership and Management - BSB50420",
-            value: "Diploma of Leadership and Management - BSB50420",
+            text: "Diploma of Leadership and Management ",
+            value: "Diploma of Leadership and Management ",
           },
           {
             id: 21,
-            text: "Diploma of Marketing and Communication - BSB50620",
-            value: "Diploma of Marketing and Communication - BSB50620",
+            text: "Diploma of Marketing and Communication ",
+            value: "Diploma of Marketing and Communication ",
           },
           {
             id: 22,
-            text: "Diploma of Quality Auditing - BSB50920",
-            value: "Diploma of Quality Auditing - BSB50920",
+            text: "Diploma of Quality Auditing ",
+            value: "Diploma of Quality Auditing ",
           },
           {
             id: 23,
-            text: "Diploma of Work Health and Safety - BSB51319",
-            value: "Diploma of Work Health and Safety - BSB51319",
+            text: "Diploma of Work Health and Safety ",
+            value: "Diploma of Work Health and Safety ",
           },
           {
             id: 24,
-            text: "Graduate Diploma of Portfolio Management - BSB80220",
-            value: "Graduate Diploma of Portfolio Management - BSB80220",
+            text: "Graduate Diploma of Portfolio Management ",
+            value: "Graduate Diploma of Portfolio Management",
           },
           {
             id: 25,
-            text: "Graduate Diploma of Strategic Leadership - BSB80320",
-            value: "Graduate Diploma of Strategic Leadership - BSB80320",
+            text: "Graduate Diploma of Strategic Leadership ",
+            value: "Graduate Diploma of Strategic Leadership ",
           },
         ],
       },
@@ -1940,19 +1940,19 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Certificate III in Civil Construction (General) - RII30920",
-            value: "Certificate III in Civil Construction (General) - RII30920",
+            text: "Certificate III in Civil Construction (General)",
+            value: "Certificate III in Civil Construction (General)",
           },
           {
             id: 4,
-            text: "Certificate III in Civil Construction Plant Operations - RII3082",
+            text: "Certificate III in Civil Construction Plant Operations",
             value:
-              "Certificate III in Civil Construction Plant Operations - RII3082",
+              "Certificate III in Civil Construction Plant Operations",
           },
           {
             id: 5,
-            text: "Certificate IV in Civil Construction - RII40720",
-            value: "Certificate IV in Civil Construction - RII40720",
+            text: "Certificate IV in Civil Construction",
+            value: "Certificate IV in Civil Construction",
           },
         ],
       },
@@ -1973,69 +1973,69 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Advanced Diploma of Hospitality Management - SIT60316",
-            value: "Advanced Diploma of Hospitality Management - SIT60316",
+            text: "Advanced Diploma of Hospitality Management",
+            value: "Advanced Diploma of Hospitality Management",
           },
           {
             id: 4,
-            text: "Certificate II in Hospitality - SIT20316",
-            value: "Certificate II in Hospitality - SIT20316",
+            text: "Certificate II in Hospitality",
+            value: "Certificate II in Hospitality",
           },
           {
             id: 5,
-            text: "Certificate II in Kitchen Operations - SIT20416",
-            value: "Certificate II in Kitchen Operations - SIT20416",
+            text: "Certificate II in Kitchen Operations",
+            value: "Certificate II in Kitchen Operations",
           },
           {
             id: 6,
-            text: "Certificate III in Commercial Cookery - SIT30821",
-            value: "Certificate III in Commercial Cookery - SIT30821",
+            text: "Certificate III in Commercial Cookery",
+            value: "Certificate III in Commercial Cookery",
           },
           {
             id: 7,
-            text: "Certificate III in Hospitality - SIT30622",
-            value: "Certificate III in Hospitality - SIT30622",
+            text: "Certificate III in Hospitality",
+            value: "Certificate III in Hospitality ",
           },
           {
             id: 8,
-            text: "Certificate III in Meat Processing (Retail Butcher) - AMP30815",
+            text: "Certificate III in Meat Processing (Retail Butcher)",
             value:
-              "Certificate III in Meat Processing (Retail Butcher) - AMP30815",
+              "Certificate III in Meat Processing (Retail Butcher)",
           },
           {
             id: 9,
-            text: "Certificate III in Patisserie - SIT31016",
-            value: "Certificate III in Patisserie - SIT31016",
+            text: "Certificate III in Patisserie",
+            value: "Certificate III in Patisserie ",
           },
           {
             id: 10,
-            text: "Certificate IV in Commercial Cookery - SIT40516",
-            value: "Certificate IV in Commercial Cookery - SIT40516",
+            text: "Certificate IV in Commercial Cookery",
+            value: "Certificate IV in Commercial Cookery",
           },
           {
             id: 11,
-            text: "Certificate IV in Hospitality - SIT40416",
-            value: "Certificate IV in Hospitality - SIT40416",
+            text: "Certificate IV in Hospitality",
+            value: "Certificate IV in Hospitality",
           },
           {
             id: 12,
-            text: "Certificate IV in Kitchen Management - SIT40521",
-            value: "Certificate IV in Kitchen Management - SIT40521",
+            text: "Certificate IV in Kitchen Management",
+            value: "Certificate IV in Kitchen Management",
           },
           {
             id: 13,
-            text: "Certificate IV in Patisserie - SIT40716",
-            value: "Certificate IV in Patisserie - SIT40716",
+            text: "Certificate IV in Patisserie",
+            value: "Certificate IV in Patisserie",
           },
           {
             id: 14,
-            text: "Diploma of Hospitality Management - SIT50416",
-            value: "Diploma of Hospitality Management - SIT50416",
+            text: "Diploma of Hospitality Management",
+            value: "Diploma of Hospitality Management",
           },
           {
             id: 15,
-            text: "Diploma of Travel and Tourism Management - SIT50116",
-            value: "Diploma of Travel and Tourism Management - SIT50116",
+            text: "Diploma of Travel and Tourism Management ",
+            value: "Diploma of Travel and Tourism Management",
           },
         ],
       },
@@ -2056,65 +2056,65 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Advanced Diploma of Community Sector Management - CHC62015",
-            value: "Advanced Diploma of Community Sector Management - CHC62015",
+            text: "Advanced Diploma of Community Sector Management",
+            value: "Advanced Diploma of Community Sector Management",
           },
           {
             id: 4,
-            text: "Certificate III in Community Services - CHC32015",
-            value: "Certificate III in Community Services - CHC32015",
+            text: "Certificate III in Community Services ",
+            value: "Certificate III in Community Services",
           },
           {
             id: 5,
-            text: "Certificate III in Early Childhood Education and Care - CHC30121",
+            text: "Certificate III in Early Childhood Education and Care ",
             value:
-              "Certificate III in Early Childhood Education and Care - CHC30121",
+              "Certificate III in Early Childhood Education and Care ",
           },
           {
             id: 6,
-            text: "Certificate III in Individual Support - CHC33015",
-            value: "Certificate III in Individual Support - CHC33015",
+            text: "Certificate III in Individual Support",
+            value: "Certificate III in Individual Support",
           },
           {
             id: 7,
-            text: "Certificate IV in Ageing Support - CHC43015",
-            value: "Certificate IV in Ageing Support - CHC43015",
+            text: "Certificate IV in Ageing Support",
+            value: "Certificate IV in Ageing Support",
           },
           {
             id: 8,
-            text: "Certificate IV in Career Development - CHC41215",
-            value: "Certificate IV in Career Development - CHC41215",
+            text: "Certificate IV in Career Development",
+            value: "Certificate IV in Career Development",
           },
           {
             id: 9,
-            text: "Certificate IV in Disability - CHC43115",
-            value: "Certificate IV in Disability - CHC43115",
+            text: "Certificate IV in Disability",
+            value: "Certificate IV in Disability ",
           },
           {
             id: 10,
-            text: "Certificate IV in Mental Health - CHC43315",
-            value: "Certificate IV in Mental Health - CHC43315",
+            text: "Certificate IV in Mental Health",
+            value: "Certificate IV in Mental Health",
           },
           {
             id: 11,
-            text: "Certificate IV in Mental Health Peer Work - CHC43515",
-            value: "Certificate IV in Mental Health Peer Work - CHC43515",
+            text: "Certificate IV in Mental Health Peer Work",
+            value: "Certificate IV in Mental Health Peer Work",
           },
           {
             id: 12,
-            text: "Diploma of Community Services - CHC52015",
-            value: "Diploma of Community Services - CHC52015",
+            text: "Diploma of Community Services",
+            value: "Diploma of Community Services",
           },
           {
             id: 13,
-            text: "Diploma of Early Childhood Education and Care - CHC50121",
-            value: "Diploma of Early Childhood Education and Care - CHC50121",
+            text: "Diploma of Early Childhood Education and Care",
+            value: "Diploma of Early Childhood Education and Care",
           },
           {
             id: 14,
-            text: "Graduate Certificate in Career Development Practice - CHC81315",
+            text: "Graduate Certificate in Career Development Practice",
             value:
-              "Graduate Certificate in Career Development Practice - CHC81315",
+              "Graduate Certificate in Career Development Practice",
           },
         ],
       },
@@ -2135,35 +2135,35 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Advanced Diploma of Engineering - MEM60112",
-            value: "Advanced Diploma of Engineering - MEM60112",
+            text: "Advanced Diploma of Engineering",
+            value: "Advanced Diploma of Engineering",
           },
           {
             id: 4,
-            text: "Certificate III in Engineering - Fabrication Trade - MEM30319",
+            text: "Certificate III in Engineering - Fabrication Trade",
             value:
-              "Certificate III in Engineering - Fabrication Trade - MEM30319",
+              "Certificate III in Engineering - Fabrication Trade",
           },
           {
             id: 5,
-            text: "Certificate III in Engineering - Mechanical Trade - MEM30219",
+            text: "Certificate III in Engineering - Mechanical Trade",
             value:
-              "Certificate III in Engineering - Mechanical Trade - MEM30219",
+              "Certificate III in Engineering - Mechanical Trade",
           },
           {
             id: 6,
-            text: "Certificate IV in Engineering - MEM40119",
-            value: "Certificate IV in Engineering - MEM40119",
+            text: "Certificate IV in Engineering",
+            value: "Certificate IV in Engineering ",
           },
           {
             id: 7,
-            text: "Diploma of Engineering - Advanced Trade - MEM50119",
-            value: "Diploma of Engineering - Advanced Trade - MEM50119",
+            text: "Diploma of Engineering - Advanced Trade ",
+            value: "Diploma of Engineering - Advanced Trade",
           },
           {
             id: 8,
-            text: "Diploma of Engineering - Technical - MEM50212",
-            value: "Diploma of Engineering - Technical - MEM50212",
+            text: "Diploma of Engineering - Technical",
+            value: "Diploma of Engineering - Technical",
           },
         ],
       },
@@ -2184,18 +2184,18 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Certificate IV in Screen and Media - CUA41220",
-            value: "Certificate IV in Screen and Media - CUA41220",
+            text: "Certificate IV in Screen and Media",
+            value: "Certificate IV in Screen and Media",
           },
           {
             id: 4,
-            text: "Diploma of Event Management - SIT50316",
-            value: "Diploma of Event Management - SIT50316",
+            text: "Diploma of Event Management",
+            value: "Diploma of Event Management",
           },
           {
             id: 5,
-            text: "Diploma of Screen and Media - CUA51020",
-            value: "Diploma of Screen and Media - CUA51020",
+            text: "Diploma of Screen and Media",
+            value: "Diploma of Screen and Media ",
           },
         ],
       },
@@ -2216,59 +2216,59 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Certificate II in Salon Assistant - SHB20216",
-            value: "Certificate II in Salon Assistant - SHB20216",
+            text: "Certificate II in Salon Assistant ",
+            value: "Certificate II in Salon Assistant ",
           },
           {
             id: 4,
-            text: "Certificate III in Barbering - SHB30516",
-            value: "Certificate III in Barbering - SHB30516",
+            text: "Certificate III in Barbering ",
+            value: "Certificate III in Barbering",
           },
           {
             id: 5,
-            text: "Certificate III in Beauty Services - SHB30121",
-            value: "Certificate III in Beauty Services - SHB30121",
+            text: "Certificate III in Beauty Services",
+            value: "Certificate III in Beauty Services ",
           },
           {
             id: 6,
-            text: "Certificate III in Hairdressing - SHB30416",
-            value: "Certificate III in Hairdressing - SHB30416",
+            text: "Certificate III in Hairdressing ",
+            value: "Certificate III in Hairdressing ",
           },
           {
             id: 7,
-            text: "Certificate III in Make-Up - SHB30221",
-            value: "Certificate III in Make-Up - SHB30221",
+            text: "Certificate III in Make-Up ",
+            value: "Certificate III in Make-Up ",
           },
           {
             id: 8,
-            text: "Certificate III in Nail Technology - SHB30321",
-            value: "Certificate III in Nail Technology - SHB30321",
+            text: "Certificate III in Nail Technology ",
+            value: "Certificate III in Nail Technology",
           },
           {
             id: 9,
-            text: "Certificate IV in Beauty Therapy - SHB40121",
-            value: "Certificate IV in Beauty Therapy - SHB40121",
+            text: "Certificate IV in Beauty Therapy",
+            value: "Certificate IV in Beauty Therapy",
           },
           {
             id: 10,
-            text: "Certificate IV in Hairdressing - SHB40216",
-            value: "Certificate IV in Hairdressing - SHB40216",
+            text: "Certificate IV in Hairdressing",
+            value: "Certificate IV in Hairdressing",
           },
           {
             id: 11,
-            text: "Diploma of Beauty Therapy - SHB50121",
-            value: "Diploma of Beauty Therapy - SHB50121",
+            text: "Diploma of Beauty Therapy ",
+            value: "Diploma of Beauty Therapy ",
           },
           {
             id: 12,
-            text: "Diploma of Salon Management - SHB50216",
-            value: "Diploma of Salon Management - SHB50216",
+            text: "Diploma of Salon Management",
+            value: "Diploma of Salon Management",
           },
           {
             id: 13,
-            text: "Graduate Certificate in Hairdressing Creative Leadership - SHB80116",
+            text: "Graduate Certificate in Hairdressing Creative Leadership ",
             value:
-              "Graduate Certificate in Hairdressing Creative Leadership - SHB80116",
+              "Graduate Certificate in Hairdressing Creative Leadership ",
           },
         ],
       },
@@ -2306,13 +2306,13 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Advanced Diploma of Information Technology - ICT60220",
-            value: "Advanced Diploma of Information Technology - ICT60220",
+            text: "Advanced Diploma of Information Technology ",
+            value: "Advanced Diploma of Information Technology ",
           },
           {
             id: 4,
-            text: "Diploma of Information Technology - ICT50220",
-            value: "Diploma of Information Technology - ICT50220",
+            text: "Diploma of Information Technology",
+            value: "Diploma of Information Technology",
           },
         ],
       },
@@ -2333,9 +2333,9 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Certificate III in Surface Extraction Operations - RII30120",
+            text: "Certificate III in Surface Extraction Operations",
             value:
-              "Certificate III in Surface Extraction Operations - RII30120",
+              "Certificate III in Surface Extraction Operations",
           },
         ],
       },
@@ -2356,18 +2356,18 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Certificate III in Plumbing - CPC32420",
-            value: "Certificate III in Plumbing - CPC32420",
+            text: "Certificate III in Plumbing",
+            value: "Certificate III in Plumbing",
           },
           {
             id: 4,
-            text: "Certificate III in Roof Plumbing - CPC32620",
-            value: "Certificate III in Roof Plumbing - CPC32620",
+            text: "Certificate III in Roof Plumbing",
+            value: "Certificate III in Roof Plumbing",
           },
           {
             id: 5,
-            text: "Certificate IV in Plumbing and Services - CPC40920",
-            value: "Certificate IV in Plumbing and Services - CPC40920",
+            text: "Certificate IV in Plumbing and Services",
+            value: "Certificate IV in Plumbing and Services",
           },
         ],
       },
@@ -2388,18 +2388,18 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Certificate II in Retail Cosmetics - SHB20116",
-            value: "Certificate II in Retail Cosmetics - SHB20116",
+            text: "Certificate II in Retail Cosmetics",
+            value: "Certificate II in Retail Cosmetics",
           },
           {
             id: 4,
-            text: "Certificate III in Retail - SIR30216",
-            value: "Certificate III in Retail - SIR30216",
+            text: "Certificate III in Retail",
+            value: "Certificate III in Retail",
           },
           {
             id: 5,
-            text: "Diploma of Retail Leadership - SIR50116",
-            value: "Diploma of Retail Leadership - SIR50116",
+            text: "Diploma of Retail Leadership",
+            value: "Diploma of Retail Leadership",
           },
         ],
       },
@@ -2420,13 +2420,13 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Certificate IV in Security Management - CPP40719",
-            value: "Certificate IV in Security Management - CPP40719",
+            text: "Certificate IV in Security Management",
+            value: "Certificate IV in Security Managemen",
           },
           {
             id: 4,
-            text: "Diploma of Security and Risk Management - CPP50619",
-            value: "Diploma of Security and Risk Management - CPP50619",
+            text: "Diploma of Security and Risk Management ",
+            value: "Diploma of Security and Risk Management",
           },
         ],
       },
@@ -2447,8 +2447,8 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Diploma of Logistics - TLI50221",
-            value: "Diploma of Logistics - TLI50221",
+            text: "Diploma of Logistics",
+            value: "Diploma of Logistics",
           },
         ],
       },
@@ -2469,8 +2469,8 @@ export const RPL_SkillsTextData = {
           },
           {
             id: 3,
-            text: "Graduate Diploma of Management (Learning) - BSB80120",
-            value: "Graduate Diploma of Management (Learning) - BSB80120",
+            text: "Graduate Diploma of Management (Learning)",
+            value: "Graduate Diploma of Management (Learning)",
           },
         ],
       },

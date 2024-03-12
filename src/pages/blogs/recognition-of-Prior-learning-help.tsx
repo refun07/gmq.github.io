@@ -81,7 +81,7 @@ export const blogData = [
     }
 ]
 
-const secondBlogDetailsPage = () => {
+const SecondBlogDetailsPage = () => {
     const firstBlog = blogData[0]; // Access the first item in the array
     return (
         <div className="max-w-screen-2xl mx-auto mt-10">
@@ -202,4 +202,4 @@ const secondBlogDetailsPage = () => {
     );
 };
 
-export default secondBlogDetailsPage;
+export default SecondBlogDetailsPage;

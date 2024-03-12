@@ -47,9 +47,10 @@ function Blog() {
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">The Process of Getting PR in Australia through IT Courses</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/process-of-getting-pr`}>
-                            <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                            <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>
+                            
                         </Link>
                     </div>
                 </div>
@@ -59,7 +60,7 @@ function Blog() {
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">PR Pathway IT Courses in Australia</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/pr-pathway`}>
-                            <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                            <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>
                         </Link>
@@ -70,7 +71,7 @@ function Blog() {
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">How to Obtain Permanent Residency in Australia Through IT Courses?</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/permanent-residency`}>
-                            <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                            <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>
                         </Link>
@@ -81,7 +82,7 @@ function Blog() {
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">Visa Options.</h1>
                     <div className="text-center mt-50">
                         <Link href={`/blogs/visa-options`}>
-                            <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                            <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>
                         </Link>
@@ -92,7 +93,7 @@ function Blog() {
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">Independent Visas</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/independent-visa`}>
-                            <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                            <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>
                         </Link>
@@ -103,7 +104,7 @@ function Blog() {
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">What are your options if you don’t opt for Independent Visa options?</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/option-if-you-dont-opt-independent-visa`}>
-                        <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                            <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>
                         </Link>
@@ -114,7 +115,7 @@ function Blog() {
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">Frequently Asked Questions (FAQs)</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/frequency-asked-questions`}>
-                        <button className="w-4/5 bg-gray-500 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                            <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>
                         </Link>

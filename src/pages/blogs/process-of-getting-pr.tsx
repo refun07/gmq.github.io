@@ -107,10 +107,9 @@ export const blogData = [
     }
 ]
 
-const BlogDetailsOne = () => {
+const BlogDetailsPageOne = () => {
     const firstBlog = blogData[0]; // Access the first item in the array
     return (
-
         <div className="max-w-screen-2xl mx-auto mt-10">
             <Image src={firstBlog?.image} alt={firstBlog?.title} layout="responsive" width={600} height={300} />
 
@@ -277,4 +276,4 @@ const BlogDetailsOne = () => {
     );
 };
 
-export default BlogDetailsOne;
+export default BlogDetailsPageOne;

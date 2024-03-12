@@ -57,9 +57,9 @@ function Blog() {
 
                 <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
                     <Image src={image2} alt="" width={300} height={300} className="object-cover w-full h-64" />
-                    <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">PR Pathway IT Courses in Australia</h1>
+                    <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">How Can Recognition of Prior Learning (RPL) Help Your Career?</h1>
                     <div className="text-center mt-4">
-                        <Link href={`/blogs/pr-pathway`}>
+                        <Link href={`/blogs/recognition-of-Prior-learning-help`}>
                             <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>
@@ -68,9 +68,9 @@ function Blog() {
                 </div>
                 <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
                     <Image src={image3} alt="" width={300} height={300} className="object-cover w-full h-64" />
-                    <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">How to Obtain Permanent Residency in Australia Through IT Courses?</h1>
+                    <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">What is Recognised Prior Learning (RPL) in Australia??</h1>
                     <div className="text-center mt-4">
-                        <Link href={`/blogs/permanent-residency`}>
+                        <Link href={`/blogs/recognised-prior-learning`}>
                             <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>

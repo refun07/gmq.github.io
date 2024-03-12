@@ -177,14 +177,14 @@ function SzhsinMenuDesktop() {
         </div>
         <div className="7">
           <PageLink
-            href="/blogs/pr-pathway"
+            href="/blogs/recognition-of-Prior-learning-help"
             isIcon={false}
           
           />
         </div>
         <div className="8">
           <PageLink
-            href="/blogs/permanent-residency"
+            href="/blogs/recognised-prior-learning"
             text=""
             isIcon={false}
            

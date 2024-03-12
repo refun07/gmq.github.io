@@ -119,7 +119,7 @@ const BlogDetailsOne = () => {
                 <div className="flex items-center gap-5 mt-5">
                     <div className="flex items-center gap-3 text-gray-500">
                         <MdAdminPanelSettings size={32} />
-                        <div className="font-bold text-lg">Admin</div>
+                        <div className="font-bold text-lg">GMQ Global Team</div>
                     </div>
                     <div className="flex items-center gap-3 text-gray-500">
                         <MdDateRange size={32} />

@@ -176,25 +176,15 @@ const SecondBlogDetailsPage = () => {
 
             <h2 className="text-2xl font-bold text-center mb-2">Follow us on Social Media:</h2>
             <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:items-center sm:gap-10">
-                <div className="flex flex-wrap items-center justify-center lg:justify-around gap-4 sm:gap-10 shadow-xl w-full border py-4 px-4 sm:py-6 sm:px-6">
-
-                    <a href="#" className="text-blue-700 hover:text-blue-900">
+                <div className="flex flex-wrap items-center justify-center lg:justify-evenly gap-4 sm:gap-10 shadow-xl w-full border py-4 px-4 sm:py-6 sm:px-6">
+                    <a href="https://www.facebook.com/gmqglobal" className="text-blue-700 hover:text-blue-900">
                         <FaFacebookSquare size={30} />
                     </a>
-                    <a href="#" className="text-blue-700 hover:text-blue-900">
-                        <FaLinkedin size={30} />
-                    </a>
-                    <a href="#" className="text-green-700 hover:text-green-900">
-                        <FaXTwitter size={30} />
-                    </a>
-                    <a href="#" className="text-blue-500 hover:text-blue-700">
+                    <a href="https://www.instagram.com/gmqglobal/" className="text-blue-500 hover:text-blue-700">
                         <FaSquareInstagram size={30} />
                     </a>
-                    <a href="#" className="text-green-500 hover:text-green-700">
+                    <a href="https://api.whatsapp.com/send/?phone=1300515634&text&type=phone_number&app_absent=0" className="text-green-500 hover:text-green-700">
                         <IoLogoWhatsapp size={30} />
-                    </a>
-                    <a href="#" className="text-blue-500 hover:text-blue-700">
-                        <FaTelegram size={30} />
                     </a>
                 </div>
             </div>

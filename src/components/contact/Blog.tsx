@@ -47,10 +47,9 @@ function Blog() {
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">The Process of Getting PR in Australia through IT Courses</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/process-of-getting-pr`}>
-                            <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                            <button className="w-4/5 bg-secondary rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>
-                            
                         </Link>
                     </div>
                 </div>
@@ -58,9 +57,9 @@ function Blog() {
                 <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
                     <Image src={image2} alt="" width={300} height={300} className="object-cover w-full h-64" />
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">How Can Recognition of Prior Learning (RPL) Help Your Career?</h1>
-                    <div className="text-center mt-4">
+                    <div className="text-center">
                         <Link href={`/blogs/recognition-of-Prior-learning-help`}>
-                            <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                            <button className="w-4/5 bg-secondary rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>
                         </Link>
@@ -71,13 +70,13 @@ function Blog() {
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">What is Recognised Prior Learning (RPL) in Australia??</h1>
                     <div className="text-center mt-4">
                         <Link href={`/blogs/recognised-prior-learning`}>
-                            <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                            <button className="w-4/5 bg-secondary rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>
                         </Link>
                     </div>
                 </div>
-                <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
+                {/* <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
                     <Image src={image4} alt="" width={300} height={300} className="object-cover w-full h-64" />
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">Visa Options.</h1>
                     <div className="text-center mt-50">
@@ -120,7 +119,7 @@ function Blog() {
                             </button>
                         </Link>
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     );

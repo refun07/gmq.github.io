@@ -42,7 +42,7 @@ function Blog() {
     return (
         <div className="container mx-auto py-8">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-20 mb-8 mt-10">
-                <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
+                <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300 transform hover:scale-105">
                     <Image src={image1} alt="" width={300} height={300} className="object-cover w-full h-64" />
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">The Process of Getting PR in Australia through IT Courses</h1>
                     <div className="text-center mt-4">
@@ -76,18 +76,18 @@ function Blog() {
                         </Link>
                     </div>
                 </div>
-                {/* <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
+                 <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
                     <Image src={image4} alt="" width={300} height={300} className="object-cover w-full h-64" />
-                    <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">Visa Options.</h1>
+                    <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">How do I find the right education consultant to study in Australia?</h1>
                     <div className="text-center mt-50">
-                        <Link href={`/blogs/visa-options`}>
-                            <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                        <Link href={`/blogs/find-the-right-education-consultant`}>
+                            <button className="w-4/5 bg-secondary rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>
                         </Link>
                     </div>
                 </div>
-                <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
+                {/*<div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
                     <Image src={image5} alt="" width={300} height={300} className="object-cover w-full h-64" />
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">Independent Visas</h1>
                     <div className="text-center mt-4">

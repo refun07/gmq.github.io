@@ -87,18 +87,18 @@ function Blog() {
                         </Link>
                     </div>
                 </div>
-                {/*<div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
+                <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
                     <Image src={image5} alt="" width={300} height={300} className="object-cover w-full h-64" />
-                    <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">Independent Visas</h1>
+                    <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">How to apply for RPL in Australia?</h1>
                     <div className="text-center mt-4">
-                        <Link href={`/blogs/independent-visa`}>
-                            <button className="w-4/5 bg-gray-400 hover:bg-blue-600 rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
+                        <Link href={`/blogs/how-to apply-for-rpl`}>
+                            <button className="w-4/5 bg-secondary rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>
                         </Link>
                     </div>
                 </div>
-                <div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
+                {/*<div className="relative overflow-hidden rounded-lg group hover:bg-gray-100 transition duration-300  transform hover:scale-105">
                     <Image src={image6} alt="" width={300} height={300} className="object-cover w-full h-64" />
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">What are your options if you don’t opt for Independent Visa options?</h1>
                     <div className="text-center mt-4">

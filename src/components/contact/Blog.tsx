@@ -91,7 +91,7 @@ function Blog() {
                     <Image src={image5} alt="" width={300} height={300} className="object-cover w-full h-64" />
                     <h1 className="text-3xl font-bold mb-2 mt-6 ml-4">How to apply for RPL in Australia?</h1>
                     <div className="text-center mt-4">
-                        <Link href={`/blogs/how-to apply-for-rpl`}>
+                        <Link href={`/blogs/how-to-apply-for-rpl`}>
                             <button className="w-4/5 bg-secondary rounded-full text-white font-bold py-4 px-6 md:px-10 transition transform hover:scale-105 mt-10 mx-auto">
                                 See More Details
                             </button>

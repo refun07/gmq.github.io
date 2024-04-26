@@ -199,7 +199,7 @@ function SzhsinMenuDesktop() {
         </div>
         <div className="10">
           <PageLink
-            href="/blogs/how-to apply-for-rpl"
+            href="/blogs/how-to-apply-for-rpl"
             isIcon={false}
             
           />

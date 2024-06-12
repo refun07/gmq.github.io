@@ -161,12 +161,12 @@ function SzhsinMenuDesktop() {
           />
         </div>
         <div className="5">
-          <PageLink
-            href="https://gmqglobal.com.au/blogs/"
-            text="Blog"
+          <a
+            href="https://blog.gmqglobal.com.au/"
             isIcon={false}
-            class_name="p-2 px-4"
-          />
+            className="p-2 px-4">Blog
+            </a>
+          
         </div>
         <div className="6">
           <PageLink

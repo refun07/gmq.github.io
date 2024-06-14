@@ -161,11 +161,8 @@ function SzhsinMenuDesktop() {
           />
         </div>
         <div className="5">
-          <a
-            href="https://blog.gmqglobal.com.au/"
-            isIcon={false}
-            className="p-2 px-4">Blog
-            </a>
+        <a href="https://blog.gmqglobal.com.au/" className="p-2 px-4">Blog</a>
+
           
         </div>
         <div className="6">

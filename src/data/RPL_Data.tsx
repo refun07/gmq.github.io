@@ -244,7 +244,7 @@ export const RPL_SliderData = {
       id: 1,
       subTitle: "Step 1",
       img: FreeSkillsAssessment,
-      title: "Frees Skills Assessment",
+      title: "Free Skills Assessment",
       description: [
         "Speak to GMQ Global about your goals, and allow us to guide you towards the qualification that will help you reach them.",
       ],

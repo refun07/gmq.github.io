@@ -227,7 +227,7 @@ export const RPL_AboutData = {
   description: [
     `GMQ Global transforms careers by partnering with Registered Training Organisations (RTOs) to convert your unique experiences and abilities into nationally recognised qualifications through Recognition of Prior Learning (RPL). We analyse your capabilities and develop solutions to bridge knowledge gaps, helping you towards the proper career milestones.
     `,
-    `Access a broad spectrum of industrial qualifications provided by our partnered RTO. Reach out to us and polish your career with RPL certificates. Demonstrating unparalleled possibilities such as expanded career avenues and elimination of superfluous training
+    `Access a broad spectrum of RPL courses in Australia for international students provided by our partnered RTO. Reach out to us and polish your career with RPL certificates. Our RPL assessment in Australia demonstrates unparalleled possibilities such as expanded career avenues and elimination of superfluous training
     `,
     `With our help, we believe your sector knowledge may be transformed into a coveted RPL qualification, opening doors to new jobs, increased income, and entrepreneurial endeavours.
     `,

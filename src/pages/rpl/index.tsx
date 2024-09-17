@@ -14,7 +14,7 @@ function RPL_Page() {
   const router = useRouter()
   return (
     <>
-      <DynamicHead title="Recognition of Prior Learning in Australia: RPL Courses & Assessment" description="Transform your career in Australia with GMQ Global's Recognition of Prior Learning (RPL) partnerships. Convert experience into nationally recognized qualifications for new opportunities and success."  canonicalPath={router?.pathname}/>
+      <DynamicHead title="Best RPL Courses & Assessment in Australia for International Students" description="Discover the best RPL courses and assessments in Australia for international students. Convert your experience into nationally recognized qualifications with GMQ Global's expert partnerships."  canonicalPath={router?.pathname}/>
       <RPLBanner />
       <SkillsTest />
       <RPL_informationStep />

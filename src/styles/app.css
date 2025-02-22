@@ -1,6 +1,9 @@
 /* animation button start  */
 /* The loader container */
 /* The loader container */
+body{
+  display: none!important;
+}
 ::selection {
   color: #fff;
   background-color: #027a7c;
